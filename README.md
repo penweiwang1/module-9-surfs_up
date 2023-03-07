@@ -6,14 +6,15 @@ The purpose of the analysis is to parse through Oahu's weather dataset using SQL
 
 # Results:
 After extracting the Hawaii weather data and filtering only for the months of June and December, the resulting summary statistics for the two months were calculated :
-/Users/punkwui/Desktop/Screen Shot 2023-03-05 at 8.47.17 PM.png 
-/Users/punkwui/Desktop/Screen Shot 2023-03-05 at 8.47.32 PM.png
+
+<img width="195" alt="Screen Shot 2023-03-05 at 8 47 17 PM" src="https://user-images.githubusercontent.com/115126898/223581792-a7ba6ec8-7e80-42e9-945b-c66a88cda108.png">
+<img width="195" alt="Screen Shot 2023-03-05 at 8 47 32 PM" src="https://user-images.githubusercontent.com/115126898/223581796-250c7796-a76b-41a6-87bf-058d46b77156.png">
 
 Based on the above summary statistics, it can be seen that the average temperature in June is slightly higher at 75 degrees compared to that of December at 71 degrees. 
 
 Decemeber also had a lower minimum temperature than that of June.
 
-Although the temperatures for Decemeber is slightly lower, about 95% of the daily avg temperatures for both months ranged from approx. 70 degrees to approx 80 degrees.
+Although the temperatures for December were slightly lower, about 95% of the daily avg temperatures for both months ranged from approx. 70 degrees to approx 80 degrees.
 
 # Summary:
 Based on the data, it can be assumed that the business is sustainable all year round. Average temperatures for both months are in the 70s which is suitable for surfing.
